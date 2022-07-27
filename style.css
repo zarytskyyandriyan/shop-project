@@ -90,16 +90,16 @@ body {
     height: 40px;
     font-size: 21px;
     line-height: 40px;
+    color: white;
 }
 .subMenu >li> a{
     display: block;
     padding-left: 25px;
     text-decoration: none;
+    color: #2c71b8;
     color: white;
 }
 #products:hover .subMenu {
-    float: left;
-    background-image: url("./images/mitka.webp");
     display: block;
 }
 .subMenu >li> a:hover{
@@ -110,12 +110,12 @@ body {
     background-color: #2c71b8;
     color: white;
 }
+
 .search{
     width: 200px;
     height: 40px;
     margin-top: 5px;
     border: 1px solid #2c71b8;
-
 }
 
 .search1{
