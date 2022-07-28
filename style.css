@@ -6,7 +6,9 @@ body {
     font-family: 'Roboto', sans-serif;
     background-image: url("/lesson-9/shop-project/images/patt.png");
 }
-
+.arrow{
+    font-size: 15px;
+}
 .container {
     width: 1200px;
     margin: 0 auto;
